@@ -9,30 +9,30 @@
         "id":"2",
         "name":"Craftwork",
         "price":"45",
-        "image":"http://www.ansonika.com/udema/img/course__list_2.jpg"
+        "image":"https://thumbs.dreamstime.com/b/craft-supply-tools-kids-school-paper-craft-art-related-work-66904690.jpg"
     },
     {
         "id":"3",
         "name":"Writing",
         "price":"39",
-        "image":"http://www.ansonika.com/udema/img/course__list_3.jpg"
+        "image":"https://image.shutterstock.com/image-vector/writer-writing-on-paper-sheet-260nw-556859122.jpg"
     },
     {
         "id":"4",
         "name":"Photography",
         "price":"60",
-        "image":"http://www.ansonika.com/udema/img/course__list_4.jpg"
+        "image":"https://images.news18.com/ibnlive/uploads/2021/08/sun-photo.jpg"
     },
     {
         "id":"5",
         "name":"Music",
         "price":"45",
-        "image":"http://www.ansonika.com/udema/img/course__list_5.jpg"
+        "image":"https://thumbs.dreamstime.com/b/music-background-blue-23157485.jpg"
     },
     {
         "id":"6",
         "name":"Mathematical",
         "price":"60",
-        "image":"http://www.ansonika.com/udema/img/course__list_6.jpg"
+        "image":"https://cdn.cdnparenting.com/articles/2020/11/01194956/1588916176.jpg"
     }
 ]
