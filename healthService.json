@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Dental",
+        "img":"https://i.pinimg.com/564x/01/b4/d2/01b4d2bd32ad98a5c929727facb96d4c.jpg"
+    },
+    {
+        "id":2,
+        "name":"Clinical",
+        "img":"https://pharmaphorum.com/wp-content/uploads/2019/04/Boosting-clinical-trial-recruitment-605x340.jpg"
+    },
+    {
+        "id":3,
+        "name":"surgical",
+        "img":"https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX19416676.jpg"
+    },
+    {
+        "id":4,
+        "name":"optometric",
+        "img":"https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/uploads/job_description_template/Optometric_Technician.jpg"
+    },
+    {
+        "id":5,
+        "name":"veterinary",
+        "img":"https://www.petplace.com/static/a2f7bd196291ca267792213eabc39506/c23ac/shutterstock_1660835746.jpg"
+    },
+    {
+        "id":6,
+        "name":"psychiatric",
+        "img":"https://image.shutterstock.com/image-photo/male-patient-headache-clinic-260nw-1666785874.jpg"
+    }
+]
