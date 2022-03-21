@@ -2,31 +2,37 @@
     {
         "id":1,
         "name":"Dental",
-        "img":"https://navavej.com/wp-content/uploads/2021/01/navavej_web_banner_-Dental-Center_600x400.jpg"
+        "img":"https://navavej.com/wp-content/uploads/2021/01/navavej_web_banner_-Dental-Center_600x400.jpg",
+        "description":"It’s easy to get confused when it comes to health and nutrition. Even qualified experts often seem to hold opposing opinions, which can make it difficult to figure out what you should actually be doing to optimize your health."
     },
     {
         "id":2,
         "name":"Clinical",
-        "img":"https://pharmaphorum.com/wp-content/uploads/2019/04/Boosting-clinical-trial-recruitment-605x340.jpg"
+        "img":"https://pharmaphorum.com/wp-content/uploads/2019/04/Boosting-clinical-trial-recruitment-605x340.jpg",
+        "description":"It’s easy to get confused when it comes to health and nutrition. Even qualified experts often seem to hold opposing opinions, which can make it difficult to figure out what you should actually be doing to optimize your health."
     },
     {
         "id":3,
         "name":"surgical",
-        "img":"https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX19416676.jpg"
+        "img":"https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX19416676.jpg",
+        "description":"It’s easy to get confused when it comes to health and nutrition. Even qualified experts often seem to hold opposing opinions, which can make it difficult to figure out what you should actually be doing to optimize your health."
     },
     {
         "id":4,
         "name":"optometric",
-        "img":"https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/uploads/job_description_template/Optometric_Technician.jpg"
+        "img":"https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/uploads/job_description_template/Optometric_Technician.jpg",
+        "description":"It’s easy to get confused when it comes to health and nutrition. Even qualified experts often seem to hold opposing opinions, which can make it difficult to figure out what you should actually be doing to optimize your health."
     },
     {
         "id":5,
         "name":"veterinary",
-        "img":"https://www.petplace.com/static/a2f7bd196291ca267792213eabc39506/c23ac/shutterstock_1660835746.jpg"
+        "img":"https://www.petplace.com/static/a2f7bd196291ca267792213eabc39506/c23ac/shutterstock_1660835746.jpg",
+        "description":"It’s easy to get confused when it comes to health and nutrition. Even qualified experts often seem to hold opposing opinions, which can make it difficult to figure out what you should actually be doing to optimize your health."
     },
     {
         "id":6,
         "name":"psychiatric",
-        "img":"https://image.shutterstock.com/image-photo/male-patient-headache-clinic-260nw-1666785874.jpg"
+        "img":"https://image.shutterstock.com/image-photo/male-patient-headache-clinic-260nw-1666785874.jpg",
+        "description":"It’s easy to get confused when it comes to health and nutrition. Even qualified experts often seem to hold opposing opinions, which can make it difficult to figure out what you should actually be doing to optimize your health."
     }
 ]
